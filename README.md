@@ -190,6 +190,7 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)  
 ***2024 TNNLS*** State Abstraction via Deep Supervised Hash Learning(`DSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10723098)  
 ***2024 TKDE*** Look Into Gradients: Learning Compact Hash Codes for Out-of-Distribution Retrieval(`LOG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10591352)  
+***2025 TIP*** Adaptive Bit Selection for Scalable Deep Hashing[[Paper]](https://ieeexplore.ieee.org/document/10857966)  
 
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
@@ -580,7 +581,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 SIGIR*** Long-Tail Hashing (`LTH`)[[Paper]](https://eprints.bbk.ac.uk/id/eprint/45119/1/LTH_SIGIR.pdf)[[Code]](https://github.com/butterfly-chinese/long-tail-hashing)    
 ***2022 IJCAI*** Attention-guided Contrastive Hashing for Long-tailed Image Retrieval (`ACH`)[[Paper]](https://www.ijcai.org/proceedings/2022/0142.pdf)[[Code]](https://github.com/KUXN98/ACHNet)    
 ***2023 MM*** Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval (`DDPHN`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612328)  
-***2024 TMM*** Semantic-enhanced Proxy-guided Hashing for Long-tailed Image Retrieval (`SPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)
+***2024 TMM*** Semantic-enhanced Proxy-guided Hashing for Long-tailed Image Retrieval (`SPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)  
+***2025 TIP*** Causal Inference Hashing for Long-Tailed Image Retrieval[[Paper]](https://ieeexplore.ieee.org/document/11082460)[[Code]](https://github.com/IMAG-LuJin/CIH)
+
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
 ***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)[[Code]](http://www.sdu-idea.cn/codes.php?name=LtCMH)        
