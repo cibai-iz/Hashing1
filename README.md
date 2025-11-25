@@ -290,7 +290,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
 ***2025 CVPR*** Hash3D: Training-free Acceleration for 3D Generation(`Hash3D`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Hash3D_Training-free_Acceleration_for_3D_Generation_CVPR_2025_paper.pdf)[[Code]](https://adamdad.github.io/hash3D/)  
 ***2025 AAAI*** Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization(`VTM-UCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32290)[[Code]](https://github.com/louisfanhz/VTMUCH)  
-***2025 AAAI*** Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval(`SMSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33304)
+***2025 AAAI*** Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval(`SMSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33304)  
 ***2025 MM*** Unsupervised Similarity-Fusion Transformer Hashing for Multimodal Retrieval(`USFTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3754753)
 
 * #### Deep-Supervised  
