@@ -203,7 +203,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2025 TIP*** Adaptive Bit Selection for Scalable Deep Hashing[[Paper]](https://ieeexplore.ieee.org/document/10857966)  
 ***2025 TIP*** BITS: Bit-Extendable Incremental Hashing in Open Environments[[paper]](https://ieeexplore.ieee.org/document/11185317)[[code]](https://github.com/yxinwang/BITS)  
 ***2025 TIP*** Asymmetric and Discrete Self-Representation Enhancement Hashing for Cross-Domain Retrieval[[paper]](https://ieeexplore.ieee.org/document/11114784)  
-***2025 TNNLS*** Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning(`ACH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838339)  
+***2025 TNNLS*** Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning(`ACH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838339)    
 ***2025 AAAI*** Deep Graph Online Hashing for Multi-Label Image Retrieval(`DGOH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32191)[[Code]](https://github.com/caoyuan57/DGOH)  
 ***2025 AAAI*** Generalized Debiased Semi-Supervised Hashing for Large-Scale Image Retrieval(`GDSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32600)  
 ***2025 AAAI*** KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing(`KALAHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33136)[[Code]](https://github.com/Tree-Shu-Zhao/KALAHash.pytorch)  
